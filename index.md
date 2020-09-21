@@ -46,7 +46,7 @@ Jul. 2020 - Present(Due to the epidemic, the internship became online)
 ## Awards
 1.Canada Mitacs International Undergraduate Summer Research Internship Candidate (Jul. 2020) \\
 2.Research Star Scholarship (Aug. 2019) \\
-3.American University Summer Exchange Program Award (Aug. 2018) \\ 
+3.American University Summer Exchange Program Award (Aug. 2018) \\
 4.Third prize in Mathematical Modeling of University of Electronic Science and Technology of China (Jul. 2020) \\
 5.Outstanding Member of the Student Union Award (Feb. 2018)
 ## Others
