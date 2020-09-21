@@ -40,9 +40,10 @@ Jul. 2020 - Present(Due to the epidemic, the internship became online)
 -Focus: Picture Processing; Model Compression
 
 ## Publications
-[1]Maolin Wang*, \mathrm{Zeyong Su*}, Yu Pan, Xu Luo, Shenggen Zheng, and Zenglin Xu. Concatenated Tensor Networks for Deep Multi-Task Learning. Accepted by ICONIP 2020. \\
-[2]\mathrm{Zeyong Su}, Maolin Wang, Yu Pan, and Zenglin Xu. Cumulative-Density based Model for General Temporal Point Processes. Submitted to AAAI 2021. \\
-[3]Yu Pan, \mathrm{Zeyong Su}, Maolin Wang. Unified Initialization For Tensor Neural Network. Submitting to ICLR 2021.
+[1]Maolin Wang*, Zeyong Su*, Yu Pan, Xu Luo, Shenggen Zheng, and Zenglin Xu. Concatenated Tensor Networks for Deep Multi-Task Learning. Accepted by ICONIP 2020. \\
+[2]Zeyong Su, Maolin Wang, Yu Pan, and Zenglin Xu. Cumulative-Density based Model for General Temporal Point Processes. Submitted to AAAI 2021. \\
+[3]Yu Pan, Zeyong Su, Maolin Wang. Unified Initialization For Tensor Neural Network. Submitting to ICLR 2021. \\
+({\ast} means equal contribution)
 ## Awards
 1.Canada Mitacs International Undergraduate Summer Research Internship Candidate (Jul. 2020) \\
 2.Research Star Scholarship (Aug. 2019) \\
