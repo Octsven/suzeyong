@@ -6,7 +6,7 @@ Chengdu, Sichuan, China
 -College: YingCai Honors College of UESTC \\
 -Major: Mathematics and Physics Basic Science
 ## Introduction
-Self-Introduction: I am interested in understanding how we can reliably quantify uncertainty and robustness in modern, complex data analysis procedure. In particular, I am interested in Bayesian inference and graphical models-with an emphasis on scalable, nonparametric, and unsupervised learning. In addition, the primary challenge that has been driving my research is the need for designing highperformance, extremely effective algorithms under severe resource constraints. And my current focus includes modelling irregular time series and tensor decomposition applied in model compression. \\
+Self-Introduction: I am interested in understanding how we can reliably quantify uncertainty and robustness in modern, complex data analysis procedure. In addition, the primary challenge that has been driving my interest is the need for designing highperformance, extremely effective algorithms under severe resource constraints. And my current focus includes modelling irregular time series and tensor decomposition applied in model compression. In the near future, I will mainly focus on analisis of irregular and dynamic data, and Bayesian inference. \\
 Sikll: Python, Tensorflow, Pytorch, Keras
 ## Research Experience
 #### Statistical Machine Intelligence Learning Laboratory (SMILE Lab), UESTC
