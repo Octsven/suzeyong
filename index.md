@@ -1,9 +1,13 @@
 ## Education
 
 University of Electronic Science and Technology of China (UESTC)
+
 Chengdu, Sichuan, China
+
 -GPA: 3.89/4.0
+
 -College: YingCai Honors College of UESTC
+
 -Major: Mathematics and Physics Basic Science
 
 ### Introduction
