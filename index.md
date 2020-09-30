@@ -29,7 +29,7 @@ Jan.2020 - Present
 -Project Description: General initialization methods are not suitable for tensor networks. We propose a unified initialization method suitable for tensor networks, which makes it possible to better maintain accuracy while compressing the model parameters.
 ## Publications
 [1]Maolin Wang, *Zeyong Su*, Yu Pan, Xu Luo, Shenggen Zheng, and Zenglin Xu. Concatenated Tensor Networks for Deep Multi-Task Learning. Accepted by ICONIP 2020. \\
-[2]*Zeyong Su*, Maolin Wang, Yu Pan, and Zenglin Xu. Cumulative-Density based Model for General Temporal Point Processes. Submitted to AAAI 2021. \\
+[2]*Zeyong Su*, Maolin Wang, Yu Pan, and Zenglin Xu. Cumulative Distribution Function based General Temporal Point Processes. Submitted to AAAI 2021. \\
 [3]Yu Pan, *Zeyong Su*, Xinglin Pan, and Zenglin Xu. Weight Initialization with Tensor Graph. Submitting to ICLR 2021.
 ## Awards
 1.Canada Mitacs International Undergraduate Summer Research Internship Candidate (Jul. 2020) \\
