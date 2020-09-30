@@ -30,7 +30,7 @@ Jan.2020 - Present
 ## Publications
 [1]Maolin Wang, *Zeyong Su*, Yu Pan, Xu Luo, Shenggen Zheng, and Zenglin Xu. Concatenated Tensor Networks for Deep Multi-Task Learning. Accepted by ICONIP 2020. \\
 [2]*Zeyong Su*, Maolin Wang, Yu Pan, and Zenglin Xu. Cumulative-Density based Model for General Temporal Point Processes. Submitted to AAAI 2021. \\
-[3]Yu Pan, *Zeyong Su*, Maolin Wang, and Zenglin Xu. Unified Initialization For Tensor Neural Network. Submitting to ICLR 2021.
+[3]Yu Pan, *Zeyong Su*, Xinglin Pan, and Zenglin Xu. Weight Initialization with Tensor Graph. Submitting to ICLR 2021.
 ## Awards
 1.Canada Mitacs International Undergraduate Summer Research Internship Candidate (Jul. 2020) \\
 2.Research Star Scholarship (Aug. 2019) \\
